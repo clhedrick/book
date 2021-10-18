@@ -30,4 +30,5 @@ html:
   use_repository_button: true
 launch_buttons:
   jupyterhub_url: "https://data9.cs.rutgers.edu"
+  notebook_interface: "jupyterlab"
   
