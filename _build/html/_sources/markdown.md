@@ -1,5 +1,22 @@
 # Markdown Files
 
+<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+
+<div data-datacamp-exercise data-lang="r">
+	<code data-type="pre-exercise-code">
+		# This will get executed each time the exercise gets initialized
+		b = 6
+	</code>
+	<code data-type="sample-code">
+		# Create a variable a, equal to 5
+
+
+		# Print out a
+
+
+	</code>
+</div>
+
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
 in regular markdown files (`.md`), you'll write in the same flavor of markdown
 called **MyST Markdown**.
