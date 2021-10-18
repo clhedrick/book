@@ -49,7 +49,7 @@ import numpy as np
 plt.ion()
 
 
-# In[ ]:
+# In[1]:
 
 
 # Fixing random state for reproducibility
