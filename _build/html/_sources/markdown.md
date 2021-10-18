@@ -4,22 +4,21 @@
 
 <div data-datacamp-exercise data-lang="r">
 	<code data-type="pre-exercise-code">
-		# This will get executed each time the exercise gets initialized
+	        # foo
 		b = 6
 	</code>
 	<code data-type="sample-code">
-		# Create a variable a, equal to 5
-
-
-		# Print out a
-
-
+                # set a to b
+		# blank
+		# print a
 	</code>
-</div>
+</div>`
+
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
 in regular markdown files (`.md`), you'll write in the same flavor of markdown
 called **MyST Markdown**.
+
 
 ## What is MyST?
 
